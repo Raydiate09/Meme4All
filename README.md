@@ -6,7 +6,7 @@ VLMs with optimized parameters performed well in cultural authenticity and inten
 (1) a systematic framework for hybrid meme transcreation
 (2) bidirectional evaluation across four diverse cultural contexts, and (3) novel insights into the universal versus culture-specific expression patterns in multimodal humor
 
-Our dataset and code are available at: https://github.com/AIM-SCU/CultuR-AI-ze
+Our dataset and code are available at: [https://github.com/AIM-SCU/CultuR-AI-ze](https://huggingface.co/datasets/YZhao09/meme_chn)
 
 We hope these resources facilitate further research into the complex interplay of visual
 symbolism and linguistic humor in generative AI.
